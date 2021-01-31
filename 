@@ -1,0 +1,29 @@
+[33mcommit cca02d0dd276b54a945c2eb5a6d0f48b1f2b8922[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Miguel Arcanjo <mig.ramos10@gmail.com>
+Date:   Sat Jan 30 23:57:33 2021 -0300
+
+    Navagacao
+
+[33mcommit 5c4319abaf95bee1e26f2763d38087b8d5e6dc3f[m
+Author: Miguel Arcanjo <mig.ramos10@gmail.com>
+Date:   Sat Jan 30 23:11:24 2021 -0300
+
+    Tela inicial
+
+[33mcommit df849d919fce3acd3e51b08225c3275558649537[m
+Author: Miguel Arcanjo <mig.ramos10@gmail.com>
+Date:   Sat Jan 30 21:50:23 2021 -0300
+
+    Lazy loading
+
+[33mcommit 860a7cd1bfeb95cbd625996c55513f959c9ce4cc[m
+Author: Miguel Arcanjo <mig.ramos10@gmail.com>
+Date:   Sat Jan 30 19:11:31 2021 -0300
+
+    Apagando pagina List
+
+[33mcommit 6720e66f9e163f18e4f4b758956be49b36ae0e4e[m
+Author: Miguel Arcanjo <mig.ramos10@gmail.com>
+Date:   Sat Jan 30 17:58:00 2021 -0300
+
+    Initial commit
