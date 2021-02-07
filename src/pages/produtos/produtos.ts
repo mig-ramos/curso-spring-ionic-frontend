@@ -31,9 +31,8 @@ export class ProdutosPage {
     let loader = this.presentLoading();
     this.produtoService.findByCategoria(categoria_id, this.page, 10)
       .subscribe(response => {
-        this.items = response['content'];
         let start = this.items.length;
-        this.items = this.items.concat(response['content']);
+         this.items = this.items.concat(response['content']);
         let end = this.items.length - 1;
         loader.dismiss();
         console.log(this.page);
